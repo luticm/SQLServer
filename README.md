@@ -1,15 +1,14 @@
 # SQLServer
 
-This is a repository that I intend to share material related to SQL Server.
-The content can vary, being T-SQL or PowerShell scripts, documents, presentations or whatever I see fit.
+This is a repository to share material related to SQL Server, Azure SQL, SQL MI, ...
+Random content, T-SQL or PowerShell scripts, documents, presentations, rants.
 
-We need to collaborate to be more efficient, learn from each other, and lose the fear in failing, because we can always take good lessons from it.
+Disclaimer: The views and opinions expressed in this repository are solely my own and do not necessarily reflect the views or opinions of my employer. All code and material  is provided as-is, without any support or warranty. Use it at your own risk.
 
-Repository for "as-is" solutions and tools/scripts that are published here.
-
-Luciano [Luti] Caixeta Moreira
-Sr. Support Engineer @ Microsoft
-E-mail: luticm79@hotmail.com
-LinkedIn: http://www.linkedin.com/in/luticm
-Blog: https://blogs.msdn.microsoft.com/luti/ / http://luticm.blogspot.com
-Twitter: @luticm
+Luciano [Luti] Caixeta Moreira</br>
+Part of Azure Global Black Belt team @ Microsoft</br>
+E-mails: luticm79@hotmail.com | luciano.moreira@microsoft.com</br>
+LinkedIn: http://www.linkedin.com/in/luticm</br>
+https://github.com/luticm/SQLServer.git</br>
+Twitter | X: @luticm</br>
+</br></br>
